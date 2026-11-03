@@ -1,4 +1,4 @@
-# Deploy Spring Boot application with MySql database in Amazon EKS (Amazon Elastic Kubernetes Service) 
+# Deploy Spring Boot application with MySql database in Amazon EKS (Amazon Elastic Kubernetes Service)  
 
 1. Create and setup custom VPC with private and public subnet having NAT gateway and Internet gateway.
 2. Deployed and setup MySql database in private subnet using Amazon RDS service.
