@@ -40,4 +40,4 @@ iam:
         name: aws-load-balancer-controller
         namespace: kube-system
       attachPolicyARNs:
-        - "arn:aws:iam::294951922097:policy/AWSLoadBalancerControllerIAMPolicy"
+        - "arn:aws:iam::294951922097:policy/AWSLoadBalancerControllerIAMPolicy" 
