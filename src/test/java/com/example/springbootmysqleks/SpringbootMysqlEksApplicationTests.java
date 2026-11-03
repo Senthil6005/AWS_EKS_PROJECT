@@ -10,4 +10,4 @@ class SpringbootMysqlEksApplicationTests {
 	void contextLoads() {
 	}
 
-}
+} 
