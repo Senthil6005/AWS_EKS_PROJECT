@@ -4,4 +4,4 @@ metadata:
   name: spring-mysql
 spec:
   type: ExternalName
-  externalName: mysql-database-1.abcd.ap-southeast-2.rds.amazonaws.com
+  externalName: mysql-database-1.abcd.ap-southeast-2.rds.amazonaws.com 
