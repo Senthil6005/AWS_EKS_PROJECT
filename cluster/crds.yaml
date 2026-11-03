@@ -1235,7 +1235,7 @@ spec:
                       required:
                       - from
                       - ports
-                      type: object
+                      type: object 
                     type: array
                 type: object
               nodeSelector:
